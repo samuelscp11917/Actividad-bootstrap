@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.img-cel {
+    width: 100%;
+}
+.card {
+    margin-right: 40px;
+    border: none;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+}
